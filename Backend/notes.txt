@@ -1,0 +1,4 @@
+parth_db_user
+m1ckRY1jOfkJaXK4 
+
+mongodb+srv://parth_db_user:m1ckRY1jOfkJaXK4@interview-fsgenai-clust.ewjxqq0.mongodb.net/interview-master

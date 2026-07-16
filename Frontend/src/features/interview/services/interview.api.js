@@ -1,5 +1,4 @@
 
-const API_URL = import.meta.env.VITE_API_URL;
 
 import axios from "axios";
 
@@ -8,7 +7,7 @@ const api = axios.create({
   withCredentials: true,
 });
 
-export default API;
+export default api;
 
 /**
  * @description Service to generate interview report based on user self description, resume and job description.

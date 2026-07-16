@@ -1,6 +1,4 @@
 
-const API_URL = import.meta.env.VITE_API_URL;
-
 import axios from "axios";
 
 const api = axios.create({
@@ -8,7 +6,7 @@ const api = axios.create({
   withCredentials: true,
 });
 
-export default API;
+export default api;
 export async function register({ username, email, password }) {
 
     try {

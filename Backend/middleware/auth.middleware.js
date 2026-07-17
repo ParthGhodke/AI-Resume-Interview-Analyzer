@@ -39,5 +39,8 @@ async function authUser(req, res, next) {
 
 }
 
+console.log("Origin:", req.headers.origin);
+console.log("Cookies:", req.cookies);
+console.log("Headers Cookie:", req.headers.cookie);
 
 module.exports = { authUser }

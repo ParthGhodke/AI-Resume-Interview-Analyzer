@@ -5,28 +5,29 @@ An AI-powered Resume Analyzer & Interview Preparation Platform that helps job se
 The application analyzes uploaded resumes, calculates an ATS Match Score, identifies missing skills, generates personalized interview questions, and creates a 7-day interview preparation roadmap.
 
 ---
-Live Demo : https://ai-resume-interview-analyzer-w8q5.vercel.app/
 
 ## 📸 Screenshots
 
 ### Login
-![Login](Screenshots/Screenshot%202026-07-15%20211702.png)
+![Login](Screenshots/LoginPage.png)
 
 ### Dashboard
-![Dashboard](Screenshots/Screenshot%202026-07-15%20211721.png)
+![Dashboard](Screenshots/Dashboard.png)
 
-### Upload Resume
-![Upload](Screenshots/Screenshot%202026-07-15%20211741.png)
+### Technical Questions
+![Technical Ques](Screenshots/TechnicalQuesions.png)
 
-### AI Generated Interview Report
-![Interview Report](Screenshots/Screenshot%202026-07-15%20211808.png)
-
-### Skill Gap Analysis
-![Skill Gap](Screenshots/Screenshot%202026-07-15%20211838.png)
+### Behavioral Questions
+![Skill Gap](Screenshots/BehavioralQuestions.png)
 
 ### Preparation Plan
-![Preparation Plan](Screenshots/Screenshot%202026-07-15%20211925.png)
+![Preparation Plan](Screenshots/Roadmap.png)
 
+### AI Generated Interview Report
+![Interview Report](Screenshots/AiGenReport.png)
+
+---
+Live Demo : https://ai-resume-interview-analyzer-w8q5.vercel.app/
 ---
 
 # ✨ Features
